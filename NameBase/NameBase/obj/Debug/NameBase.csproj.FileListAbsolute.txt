@@ -1,0 +1,7 @@
+D:\C#\NameBase\NameBase\bin\Debug\NameBase.exe
+D:\C#\NameBase\NameBase\bin\Debug\NameBase.pdb
+D:\C#\NameBase\NameBase\obj\Debug\NameBase.csproj.AssemblyReference.cache
+D:\C#\NameBase\NameBase\obj\Debug\NameBase.csproj.SuggestedBindingRedirects.cache
+D:\C#\NameBase\NameBase\obj\Debug\NameBase.csproj.CoreCompileInputs.cache
+D:\C#\NameBase\NameBase\obj\Debug\NameBase.exe
+D:\C#\NameBase\NameBase\obj\Debug\NameBase.pdb
